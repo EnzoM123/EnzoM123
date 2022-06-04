@@ -1,5 +1,5 @@
 Olá, faço projetos em Python <br>
-Veja meus projetos Clicando nesse Botão abaixo<br>
+Veja meus projetos Clicando em algum desses Botões abaixo<br>
 [![texto alternativo][1.1]][1]
 
 [1]: https://github.com/EnzoM123/Python
