@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu Perfil do Git Hub
 
 
 
-[1]: https://github.com/EnzoM123/
+[1]: https://github.com/EnzoM123/Python
 [1.1]: https://img.shields.io/badge/Inicio-black?style=for-the-badge&logo=GITHUB&logoColor=white
 
 [1.1]: https://github.com/EnzoM123/Python
